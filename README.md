@@ -81,12 +81,12 @@ python src/main.py
 - **Requests**: For making API calls.
 
 ## Workflow
-1. User inputs a request via the chat interface.
-2. If a screenshot is provided, the assistant updates the `text_list` with text elements and their coordinates.
-3. The assistant sends the user's request and the `text_list` to the GPT model.
-4. It receives the model's response, including any Python code to execute.
-5. The assistant uses the `codetable.py` module to execute the code.
-6. The GUI is updated with the response from the assistant and any actions taken.
+1. User inputs queries via chat interface.
+2. Screenshots can be provided for visual tasks.
+3. The screenshot gets processed extracting the text list.
+4. User requests, along with the text list, are sent to the GPT model for processing.
+5. The model's response, including executable Python code, is received and executed upon using codetable.py.
+6. Actions taken by the assistant are displayed in the GUI, alongside the chat history for a comprehensive user experience.
 
 ## Preview Video
 [![Preview AG](https://img.youtube.com/vi/Un6pbXhHo2U/0.jpg)](https://www.youtube.com/watch?v=Un6pbXhHo2U)
