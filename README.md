@@ -19,7 +19,7 @@ cd AG-Project
 pip install -r requirements.txt
 ```
 
-# Change directories/api key
+### Change directories/api key
 - In codetable.py : 
 Directory for the virtual environment :
 venv_dir = "AG\\temp_pipinstalls"
@@ -30,7 +30,7 @@ OPENAI_API_KEY = "Your-API-Key-Here"
 Change 2 of :
 screenshot_path = r"current_screen\current_screen.png"
 
-# Run the main application
+### Run the main application
 python src/main.py
 
 ## Features
