@@ -6,7 +6,7 @@ The AG project is an AI-driven assistant designed to interact with a user's comp
 
 This project integrates various technologies to create a versatile tool capable of performing a wide range of computer tasks based on user commands. It uses a chat interface for input and feedback, screenshot analysis for visual commands, and Python script execution for task automation.
 
-![Example Image](Diagram.PNG)
+![Example Image](images/Diagram.PNG)
 
 
 ## Getting Started
