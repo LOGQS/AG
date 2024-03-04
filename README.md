@@ -53,7 +53,7 @@ python src/main.py
 
 ### Update and Feedback Loop
 - Summarizes actions taken in response to commands.
-- Explains the rationale behind the executed steps.
+- Keeps track of the chat history for tasks which require multiple queries.
 
 ## Components
 
