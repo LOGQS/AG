@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# If you're using a virtual environment
+venv/
+.env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
