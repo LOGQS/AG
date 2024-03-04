@@ -15,7 +15,7 @@ To use this project, clone the repository and install the required Python packag
 
 ```bash
 git clone <repository-url>
-cd AG-Project
+cd AG
 pip install -r requirements.txt
 ```
 
