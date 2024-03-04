@@ -6,7 +6,7 @@ The AG project is an AI-driven assistant designed to interact with a user's comp
 
 This project integrates various technologies to create a versatile tool capable of performing a wide range of computer tasks based on user commands. It uses a chat interface for input and feedback, screenshot analysis for visual commands, and Python script execution for task automation.
 
-![Example Image](images/Diagram.PNG)
+![Example Image](images/Diagram.png)
 
 
 ## Getting Started
@@ -19,12 +19,12 @@ cd AG-Project
 pip install -r requirements.txt
 ```
 
-#Change directories/api key
+# Change directories/api key
 - In codetable.py : 
-Directory for the virtual environment
+Directory for the virtual environment :
 venv_dir = "AG\\temp_pipinstalls"
 - In llm.py : 
-Placeholder for OpenAI API Key
+Placeholder for OpenAI API Key :
 OPENAI_API_KEY = "Your-API-Key-Here"
 - In main.py :
 Change 2 of :
