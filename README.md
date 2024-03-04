@@ -74,7 +74,7 @@ python src/main.py
 ## Technology Stack
 - **Python**: Primary programming language.
 - **Tkinter**: For GUI creation.
-- **PyAutoGUI**: For GUI automation tasks like clicking and typing.
+- **PyAutoGUI**: For getting the screenshot.
 - **EasyOCR**: For text detection in images/screenshots.
 - **OpenAI's GPT-4 Vision Model**: For processing complex tasks and generating code.
 - **Subprocess**: For executing shell commands and Python scripts.
